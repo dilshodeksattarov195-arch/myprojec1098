@@ -1,0 +1,12 @@
+{
+    "meta": {
+        "module": "tokenuarse",
+        "uuid": 4464468,
+        "checksum": "7a28ed"
+    },
+    "settings": {
+        "retries": 1,
+        "enabled": false,
+        "mode": "staging"
+    }
+}
